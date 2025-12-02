@@ -39,5 +39,5 @@ This is a console-based **Bank Management System** in C++, demonstrating mastery
 
 ## How to Run
 
-g++ -std=c++17 -o BankSystem ConsoleApplication1/Advance Banking.cpp && ./BankSystem
+g++ -std=c++17 -o BankSystem ConsoleApplication1/ConsoleApplication1.cpp && ./BankSystem
 
